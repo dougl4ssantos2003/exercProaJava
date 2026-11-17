@@ -1,4 +1,4 @@
-package aBitofGeometry;
+package aBitofGeometry4;
 
 import java.util.Scanner;
 

@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e42bc0c2-8b00-47fa-b5a8-fc16128db7e9" name="Changes" comment="" />
+    <list default="true" id="e42bc0c2-8b00-47fa-b5a8-fc16128db7e9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CansarDeDigitar9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CincoVezes7_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EnquantoIsso8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QualMaior6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QualMaior6_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QualOque7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercJavaProa/ABitofInformation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercJavaProa/BabySteps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercJavaProa/HelloClarice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercJavaProa/UmDoisTres.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercJavaProa/aBitofGeometry/ABitofGeometry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercJavaProa/aBitofGeometry/Formas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ABitofInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ABitofInformation3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BabySteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BabySteps1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloClarice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloClarice2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QualMaior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UmDoisTres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UmDoisTres5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aBitofGeometry/ABitofGeometry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aBitofGeometry4/ABitofGeometry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aBitofGeometry/Formas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aBitofGeometry4/Formas.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,8 +53,15 @@
   "keyToString": {
     "Application.ABitofGeometry.executor": "Run",
     "Application.ABitofInformation.executor": "Run",
+    "Application.CansarDeDigitar9.executor": "Run",
+    "Application.CincoVezes7_1.executor": "Run",
+    "Application.EnquantoIsso8.executor": "Run",
     "Application.HelloClarice.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.QualMaior.executor": "Run",
+    "Application.QualMaior6.executor": "Run",
+    "Application.QualMaior6_1.executor": "Run",
+    "Application.QualOque7.executor": "Run",
     "Application.UmDoisTres.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -51,14 +79,6 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-30f59d01ecdd-2df11533d9fe-intellij.indexing.shared.core-IU-262.11879.100" />
-        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.11879.100" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="e42bc0c2-8b00-47fa-b5a8-fc16128db7e9" name="Changes" comment="" />

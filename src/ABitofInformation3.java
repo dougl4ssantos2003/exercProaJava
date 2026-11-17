@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ABitofInformation {
+public class ABitofInformation3 {
 
     public static void main(String[] args){
         String nome;

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HelloClarice {
+public class HelloClarice2 {
 
     public static void main (String[] args){
         String nome;
