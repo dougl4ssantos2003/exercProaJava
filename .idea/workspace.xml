@@ -5,26 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e42bc0c2-8b00-47fa-b5a8-fc16128db7e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CansarDeDigitar9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CincoVezes7_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EnquantoIsso8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QualMaior6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QualMaior6_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QualOque7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/APagar18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boooommm11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CPFNaNota20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContaComigo22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CustaQuanto17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DeQuantoAteQuanto13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DescansoMerecido21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DezNoveOitoSete12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EoQue19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JornadaTrabalho24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NãoContaComigo23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OVotoSecreto16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Parabens10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PassouNoTeste14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UmaBrincadeiraSobreAlturas15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercJavaProa/ABitofInformation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercJavaProa/BabySteps.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercJavaProa/HelloClarice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercJavaProa/UmDoisTres.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercJavaProa/aBitofGeometry/ABitofGeometry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercJavaProa/aBitofGeometry/Formas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ABitofInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ABitofInformation3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BabySteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BabySteps1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloClarice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloClarice2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QualMaior.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UmDoisTres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UmDoisTres5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aBitofGeometry/ABitofGeometry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aBitofGeometry4/ABitofGeometry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aBitofGeometry/Formas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aBitofGeometry4/Formas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,16 +49,31 @@
   "keyToString": {
     "Application.ABitofGeometry.executor": "Run",
     "Application.ABitofInformation.executor": "Run",
+    "Application.APagar18.executor": "Run",
+    "Application.Boooommm11.executor": "Run",
+    "Application.CPFNaNota20.executor": "Run",
     "Application.CansarDeDigitar9.executor": "Run",
     "Application.CincoVezes7_1.executor": "Run",
+    "Application.ContaComigo22.executor": "Run",
+    "Application.CustaQuanto17.executor": "Run",
+    "Application.DeQuantoAteQuanto13.executor": "Run",
+    "Application.DescansoMerecido21.executor": "Run",
+    "Application.DezNoveOitoSete12.executor": "Run",
     "Application.EnquantoIsso8.executor": "Run",
+    "Application.EoQue19.executor": "Run",
     "Application.HelloClarice.executor": "Run",
+    "Application.JornadaTrabalho24.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.NãoContaComigo23.executor": "Run",
+    "Application.OVotoSecreto.executor": "Run",
+    "Application.Parabens10.executor": "Run",
+    "Application.PassouNoTeste14.executor": "Run",
     "Application.QualMaior.executor": "Run",
     "Application.QualMaior6.executor": "Run",
     "Application.QualMaior6_1.executor": "Run",
     "Application.QualOque7.executor": "Run",
     "Application.UmDoisTres.executor": "Run",
+    "Application.UmaBrincadeiraSobreAlturas15.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
