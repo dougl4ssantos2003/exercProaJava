@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e42bc0c2-8b00-47fa-b5a8-fc16128db7e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/APagar18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boooommm11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CPFNaNota20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ContaComigo22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CustaQuanto17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DeQuantoAteQuanto13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DescansoMerecido21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DezNoveOitoSete12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EoQue19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JornadaTrabalho24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NãoContaComigo23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OVotoSecreto16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Parabens10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PassouNoTeste14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UmaBrincadeiraSobreAlturas15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e42bc0c2-8b00-47fa-b5a8-fc16128db7e9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +45,7 @@
     "Application.EnquantoIsso8.executor": "Run",
     "Application.EoQue19.executor": "Run",
     "Application.HelloClarice.executor": "Run",
+    "Application.InvertendoTudo25.executor": "Run",
     "Application.JornadaTrabalho24.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.NãoContaComigo23.executor": "Run",
